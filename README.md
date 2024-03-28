@@ -2,8 +2,9 @@
 
 - 🔭 I’m currently working on: [`Oakville Dynamics`](https://github.com/OakvilleDynamics) `and other personal projects`
 - 🌱 I’m currently learning: `Java` `Python` `Raspberry Pi and Audrino projects`
-- 📫 How to reach me: `LipovacD93@gmail.com`
+- ⏰ Future projects include: `Robotics` `Helping the Community 👀` 
 - 🎉 Other hobbies include: `Video Games` `Soccer, Hockey, Fishing`
+- 📫 How to reach me: `LipovacD93@gmail.com`
 - 😄 Pronouns: `he/him`
 - ⚡ Fun fact: `there is none`
 
