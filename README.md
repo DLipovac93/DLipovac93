@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: [`Oakville Robotics`](https://github.com/OakvilleDynamics) `3D printing` `and other personal projects`
+- 🔭 I’m currently working on: [`Oakville Robotics`](https://github.com/OakvilleDynamics) [`Keyboard`](https://github.com/DLipovac93/Bosnian-Keyboard) `3D printing` `other personal projects`
 - 🌱 I’m currently learning: `Java` `Python` `Raspberry Pi and Audrino projects` `Website devolopment`
-- ⏰ Future projects include: `Robotics` `Writing` `Helping the Community 👀` 
+- ⏰ Future projects include: `Robotics` `Writing books` `Helping the Community 👀` 
 - 🎉 Other hobbies include: `Video Games` `Soccer, Hockey, Fishing`
 - 📫 How to reach me: `LipovacD93@gmail.com`
 - ⚡ Fun fact: `there is none`
