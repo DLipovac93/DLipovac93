@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: [`Oakville Dynamics / 2025 Robot`](https://github.com/OakvilleDynamics/2025-Robot) [`Keyboard`](https://github.com/DLipovac93/Bosnian-Keyboard) `3D printing` `other personal projects`
+- 🔭 I’m currently working on: [`Oakville Dynamics`](https://github.com/OakvilleDynamics) [`Keyboard`](https://github.com/DLipovac93/Bosnian-Keyboard) `3D printing` `other personal projects`
 - 🌱 I’m currently learning: `Java` `Python` `C languages` `Raspberry Pi / Audrino` `Website devolopment`
 - ⏰ Future projects include: `Robotics` `Writing` `Helping the Community 👀` 
 - 🎉 Other hobbies include: `Video Games` `Soccer, Hockey, Fishing`
